@@ -1,14 +1,12 @@
 # Hilfe holen mit KI-Tools
 
-**Kurz gesagt:** Du kannst dir von einem KI-Tool die Aufgaben erklären und bei deinen Formulierungen helfen lassen. Du musst es aber nicht: FinBot hat eigene Tipps, die für den Einstieg ausreichen.
+**Kurz gesagt:** Du kannst dir von einem KI-Tool deiner Wahl (ChatGPT, Claude, Gemini & Co.) die Aufgaben erklären und bei deinen Formulierungen helfen lassen. Du musst es aber nicht: FinBot hat eigene Tipps, die für den Einstieg ausreichen.
 
-Verwechsle dabei nicht die beiden KIs. **FinBot** ist die KI, die du austestest. Dein **KI-Tool** ist deine persönliche Lernhilfe und hat mit FinBot nichts zu tun. Es kennt die Plattform nicht von innen und kann sich deshalb auch irren.
+Verwechsle dabei nicht die beiden KIs. **FinBot** ist die KI, die du austestest. Dein **KI-Tool** ist deine persönliche Lernhilfe und hat mit FinBot nichts zu tun. Es kennt die Plattform nicht von innen und kann sich irren.
 
 ## Welches Tool?
 
 Für dieses Training empfehlen wir **[Claude](https://claude.ai)**. Der Einstieg ist kostenlos, die Free-Version reicht für die Einsteigeraufgaben voraussichtlich aus, und alle arbeiten mit demselben Tool, was das gegenseitige Helfen erleichtert. Wenn du ein anderes Tool schon gut kennst und es dir bei den Aufgaben hilft, kannst du auch das verwenden. Die Beispiele unten funktionieren ebenso mit anderen Tools.
-
-**So bereitest du dich vor:** Lege dein Konto schon vor dem Training an, damit wir beim Termin direkt starten können.
 
 ## Reicht die Free-Version?
 
