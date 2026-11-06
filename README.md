@@ -4,17 +4,21 @@
 
 ## Deutsch
 
-Unterlagen zum Meetup „Hack the AI“ von Female AImpowerment am 14.11.2026.
+Herzlich willkommen zum Meetup „Hack the AI“ von Female AImpowerment am 14.11.2026.
 
 In diesem Training probierst du auf der Übungsplattform [OWASP FinBot CTF](https://owasp-finbot-ctf.org) selbst aus, wie sich KI-Agenten mit Sprache austricksen lassen und wie man sie besser schützt. FinBot simuliert eine Firma, deren KI-Assistenten absichtlich Schwachstellen haben. Du brauchst nur einen Browser und keine Programmier- oder IT-Sicherheitskenntnisse.
+Wenn du magst, schließ dich gern zu zweit oder in einer größeren Gruppe mit andern Frauen zusammen und hackt gemeinsam.
 
-### Unterlagen
+### Einführung
 
-Am besten liest du sie in dieser Reihenfolge:
+Lies die nachfolgend verlinkten Hinweise gründlich durch- hier ist alles zusammengefasst, was du für die Challenge wissen musst. 
+Für Fragen steht dir das Hackathon Team natürlich jederzeit gern zur Verfügung.
 
-1. [Einführung in FinBot](de/01-einfuehrung-finbot.md): Worum es geht und wie die Plattform funktioniert
-2. [Deine erste Challenge](de/02-erste-challenge.md): Schritt für Schritt durch die Einsteigeraufgabe
-3. [Hilfe holen mit KI-Tools](de/03-hilfe-mit-ki-tools.md): Aufgaben erklären und Formulierungen verbessern lassen
+Am besten liest du die Hinweise in dieser Reihenfolge:
+
+1. [Einführung in FinBot](de/01-einfuehrung-finbot.md): Worum es bei der Challenge geht und wie die Plattform funktioniert
+2. [Deine erste Challenge](de/02-erste-challenge.md): Schritt für Schritt Anleitung durch die Einsteigeraufgabe
+3. [Hilfe holen mit KI-Tools](de/03-hilfe-mit-ki-tools.md): KI Aufgaben erklären und Formulierungen verbessern lassen
 
 ### Wichtig
 
@@ -27,7 +31,7 @@ Am besten liest du sie in dieser Reihenfolge:
 
 Materials for the "Hack the AI" meetup by Female AImpowerment on November 14, 2026.
 
-In this training, you use the practice platform [OWASP FinBot CTF](https://owasp-finbot-ctf.org) to try out for yourself how AI agents can be tricked with language and how to protect them better. FinBot simulates a company whose AI assistants have vulnerabilities on purpose. All you need is a browser; no coding or IT security knowledge is required.
+In this training, we use the practice platform [OWASP FinBot CTF](https://owasp-finbot-ctf.org) to try out for ourself how AI agents can be tricked with language and how to protect them better. FinBot simulates a company whose AI assistants have vulnerabilities on purpose. All you need is a browser; no coding or IT security knowledge is required.
 
 ### Materials
 
